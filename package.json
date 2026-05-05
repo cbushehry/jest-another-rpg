@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cbushehry/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.2.5"
+    "jest": "^29.7.0"
   },
   "dependencies": {
     "inquirer": "^8.2.0"
